@@ -1,4 +1,5 @@
 1. What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
+
 ans:* getElementById (কোনো HTML element কে তার id দিয়ে select করা যায় | এটা সবসময় একটা element রিটার্ন করে, কারণ id ইউনিক হয়
 )
 *getElemetByClassName( কোনো HTML element কে তার class name দিয়ে select করা যায় | এটা সবসময় একটা HTMLCollection রিটার্ন করে, যেখানে ওই class এর সব element থাকে।
@@ -10,6 +11,7 @@ ans:* getElementById (কোনো HTML element কে তার id দিয়ে
 2. How do you create and insert a new element into the DOM?
 
 ans:BY creteElement and innerText and InnerHtml
+
 3. What is Event Bubbling? And how does it work?
 
 ans:Event BUbbling holo ektah processss jar help niye target element ke find kore .first e document tah ke tree structre e create kore pore parent element theke child
