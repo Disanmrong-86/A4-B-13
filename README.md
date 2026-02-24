@@ -3,7 +3,7 @@
 ans:* getElementById (কোনো HTML element কে তার id দিয়ে select করা যায় | এটা সবসময় একটা element রিটার্ন করে, কারণ id ইউনিক হয়
 )
 *getElemetByClassName( কোনো HTML element কে তার class name দিয়ে select করা যায় | এটা সবসময় একটা HTMLCollection রিটার্ন করে, যেখানে ওই class এর সব element থাকে।
-- তাই একাধিক element পাওয়া যায়)
+তাই একাধিক element পাওয়া যায়)
   *querySelector( এটা দিয়ে তুমি id, class, tag সবকিছু select করতে পারো | এটা সবসময় প্রথম matching element রিটার্ন করে)
   *querySelectorAll(- এটা দিয়ে তুমি id, class, tag সবকিছু select করতে পারো | এটা সব matching element রিটার্ন করে (NodeList আকারে) | তাই একাধিক element পাওয়া যায়|
 
